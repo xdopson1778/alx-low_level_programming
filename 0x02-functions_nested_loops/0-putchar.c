@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ * main - starting point
+ * retrun: always return 0
+ */
 int main(void)
 {
 	_putchar('_');
