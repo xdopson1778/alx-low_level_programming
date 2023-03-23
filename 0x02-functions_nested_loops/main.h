@@ -1,5 +1,6 @@
 /**
- * my main h
+ * my main
+ * return: always return 0
  */
 
 int _putchar(char c);
